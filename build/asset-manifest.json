@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/material-dashboard-react/static/css/main.b157b5ee.chunk.css",
+    "main.js": "/material-dashboard-react/static/js/main.884717ee.chunk.js",
+    "main.js.map": "/material-dashboard-react/static/js/main.884717ee.chunk.js.map",
+    "runtime-main.js": "/material-dashboard-react/static/js/runtime-main.03c089f6.js",
+    "runtime-main.js.map": "/material-dashboard-react/static/js/runtime-main.03c089f6.js.map",
+    "static/css/2.1881a404.chunk.css": "/material-dashboard-react/static/css/2.1881a404.chunk.css",
+    "static/js/2.307c12a3.chunk.js": "/material-dashboard-react/static/js/2.307c12a3.chunk.js",
+    "static/js/2.307c12a3.chunk.js.map": "/material-dashboard-react/static/js/2.307c12a3.chunk.js.map",
+    "index.html": "/material-dashboard-react/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/material-dashboard-react/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.b157b5ee.chunk.css.map": "/material-dashboard-react/static/css/main.b157b5ee.chunk.css.map",
+    "static/js/2.307c12a3.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/2.307c12a3.chunk.js.LICENSE.txt",
+    "static/media/averageCalc.css": "/material-dashboard-react/static/media/heart-code-white.951d08a0.png",
+    "static/media/sidebar-2.22f68ba5.jpg": "/material-dashboard-react/static/media/sidebar-2.22f68ba5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c089f6.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.307c12a3.chunk.js",
+    "static/css/main.b157b5ee.chunk.css",
+    "static/js/main.884717ee.chunk.js"
+  ]
+}
